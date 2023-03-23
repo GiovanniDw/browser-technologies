@@ -1,0 +1,3 @@
+[submodule "eindopdracht"]
+	path = eindopdracht
+	url = https://github.com/GiovanniDw/browser-technologies-assignment.git
